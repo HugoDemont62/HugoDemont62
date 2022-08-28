@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hugo Demont</h1>
 <h3 align="center">A passionate beginner Fullstack developer from France in lens university of technology, MMI.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugodemont62&label=Profile%20views&color=0e75b6&style=flat" alt="hugodemont62" /> </p>
 
 
 
@@ -38,4 +37,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugodemont62" alt="hugodemont62" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugodemont62&show_icons=true&locale=en" alt="hugodemont62" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugodemont62&label=Profile%20views&color=0e75b6&style=flat" alt="hugodemont62" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugodemont62&" alt="hugodemont62" /></p>
