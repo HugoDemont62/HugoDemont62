@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@hugodemont62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@hugodemont62" height="30" width="40" /></a>
+<a href="https://codepen.io/hugodemont62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@hugodemont62" height="30" width="40" /></a>
 <a href="https://dev.to/hugodemont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hugodemont" height="30" width="40" /></a>
-<a href="https://twitter.com/@hugodemont1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hugodemont1" height="30" width="40" /></a>
+<a href="https://twitter.com/hugodemont1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hugodemont1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hugo demont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo demont" height="30" width="40" /></a>
 <a href="https://codesandbox.com/hugod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hugod" height="30" width="40" /></a>
 <a href="https://instagram.com/demont_hugo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="demont_hugo" height="30" width="40" /></a>
