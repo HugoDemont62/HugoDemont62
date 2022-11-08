@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working on [my own website](https://hugodemont.fr/)
 
-- 🌱 I’m currently learning **Laravel, React, C#**
+- 🌱 I’m currently learning **Laravel, Kotlin, JS and more**
 
 - 💬 Ask me about **CSS, HTML, PHP**
-
-- 📫 How to reach me **contact@hugodemont.fr**
 
 - ⚡ Fun fact **I look like tchoupi according to my friends**
 
