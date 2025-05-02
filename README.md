@@ -1,32 +1,8 @@
-<h1 align="center">Welcome, I'm Hugo 👋</h1>
+# 👋 Bienvenue sur mon Profil GitHub
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  </a> 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  </a> 
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-  </a> 
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a> 
-  <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> 
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HugoDemont62&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 <p align="left"> 
   <!-- Profile views counter -->
@@ -39,3 +15,133 @@
     <img src="https://wakatime.com/badge/user/14fe3c61-8f4f-4dd2-b75c-eff28a472911.svg" alt="WakaTime badge" />
   </a>
 </p>
+
+---
+
+## 💻 Mes compétences techniques
+
+### Langages de programmation
+```mermaid
+pie
+    "PHP" : 30
+    "REACT" : 25
+    "Android" : 20
+    "Rust" : 15
+    "Java" : 10
+```
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://i.imgur.com/Cio11V6.png" alt="icon" width="65" height="65" />
+      <br>WinDev
+    </td>
+    <td align="center" width="96">
+      <img src="https://i.imgur.com/vxpL5ty.png" alt="icon" width="65" height="65" />
+      <br>Blueway
+    </td>
+  </tr>
+</table>
+
+### Frameworks & Outils
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://i.imgur.com/8emNyQo.png" alt="icon" width="65" height="65" />
+      <br>HFSQL
+    </td>
+  </tr>
+</table>
+
+## 🎮 Mes jeux préférés
+- 🏆 Mount & Blade
+- 🚀 Counter-Strike 2
+- 🌍 Minecraft
+- 🏹 Undertale
+- 🏰 Total war (all)
+
+## 📊 Mes statistiques de code
+
+```java
+// Exemple de code Java que j'apprécie
+public class CodingHabits {
+    public static void main(String[] args) {
+        while (true) {
+            code();
+            if (needCoffee()) {
+                drinkCoffee();
+            }
+            learn();
+        }
+    }
+}
+```
+
+```csharp
+// Un exemple de code C# qui me représente
+public class MyDevelopment
+{
+    public void CreateSomethingAwesome()
+    {
+        while (HasIdeas())
+        {
+            Develop();
+            Test();
+            Refactor();
+            Deploy();
+        }
+    }
+}
+```
+
+```windev
+// Mon style de code WinDev
+PROCEDURE MaFonctionWinDev()
+LOCAL maVariable est une chaîne
+maVariable = "J'adore coder en WinDev!"
+Info(maVariable)
+RENVOYER Vrai
+```
+
+## 🚀 Mes projets récents
+Nop 
+
+## 📫 Comment me contacter
+- 📧 Email: hugodemontpro@gmail.com
+
+
+---
+⭐️ De [Hugo Demont](https://github.com/HugoDemont62)
+
