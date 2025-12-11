@@ -1,9 +1,5 @@
 # 👋 Bienvenue sur mon Profil GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HugoDemont62&show_icons=true" alt="GitHub Stats" />
-</div>
-
 <p align="left"> 
   <!-- Profile views counter -->
   <img src="https://komarev.com/ghpvc/?username=hugodemont62&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
