@@ -28,7 +28,7 @@ jobs:
       - name: Update README
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/update_projects.py
+        run: python update_projects.py
 
       - name: Commit & push changes
         run: |
