@@ -33,8 +33,8 @@
 | Projet | Description | Langage | ⭐ | Dernière MàJ |
 |--------|-------------|---------|-----|--------------|
 | [robot-cool-qui-casse-tout](https://github.com/HugoDemont62/robot-cool-qui-casse-tout) | Code du robot pour l'Eurobot 2026 | `Python` | 0 | 10/03/2026 |
-| [theland](https://github.com/HugoDemont62/theland) | — | `TypeScript` | 0 | 28/02/2026 |
-| [workshop-react-natif](https://github.com/HugoDemont62/workshop-react-natif) | — | `TypeScript` | 0 | 27/02/2026 |
+| [theland](https://github.com/HugoDemont62/theland) | Site de thé via strapi | `TypeScript` | 0 | 28/02/2026 |
+| [workshop-react-natif](https://github.com/HugoDemont62/workshop-react-natif) | Application Chauve map (pour le fun) | `TypeScript` | 0 | 27/02/2026 |
 | [DOCorps](https://github.com/HugoDemont62/DOCorps) | — | `PHP` | 0 | 13/02/2026 |
 | [mon-site-vr](https://github.com/HugoDemont62/mon-site-vr) | — | `TypeScript` | 0 | 17/01/2026 |
 <!-- PROJECTS-END -->
