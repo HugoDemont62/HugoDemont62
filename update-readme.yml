@@ -1,0 +1,39 @@
+name: Update README with Recent Projects
+
+on:
+  schedule:
+    # Tous les jours à 6h00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch: # Permet de lancer manuellement
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_projects.py
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && exit 0
+          git add README.md
+          git commit -m "🔄 Update recent projects [skip ci]"
+          git push
