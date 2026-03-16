@@ -67,8 +67,28 @@ def update_readme(table):
     start_marker = "<!-- PROJECTS-START -->"
     end_marker = "<!-- PROJECTS-END -->"
 
-    start_idx = content.index(start_marker) + len(start_marker)
-    end_idx = content.index(end_marker)
+    start_idx = content.find(start_marker)
+    end_idx = content.find(end_marker)
+
+    if start_idx == -1 or end_idx == -1:
+        missing = []
+        if start_idx == -1:
+            missing.append(start_marker)
+        if end_idx == -1:
+            missing.append(end_marker)
+        missing_str = ", ".join(repr(m) for m in missing)
+        raise RuntimeError(
+            f"Unable to update {README_PATH}: missing marker(s) {missing_str}. "
+            "Please ensure the markers are present in the README."
+        )
+
+    start_idx += len(start_marker)
+
+    if start_idx > end_idx:
+        raise RuntimeError(
+            f"Unable to update {README_PATH}: markers {start_marker!r} and "
+            f"{end_marker!r} are in the wrong order."
+        )
 
     new_content = (
         content[:start_idx]
