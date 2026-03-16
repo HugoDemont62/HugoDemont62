@@ -8,7 +8,7 @@ README_PATH = "README.md"
 REQUEST_TIMEOUT = 10  # seconds
 
 def get_recent_repos():
-    """Fetch the 5 most recently pushed repos (non-fork, non-archived)."""
+    """Fetch the most recently pushed repos (non-fork, non-archived), limited by REPO_COUNT."""
     url = f"https://api.github.com/users/{GITHUB_USERNAME}/repos"
     params = {
         "sort": "pushed",
