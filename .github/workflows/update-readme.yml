@@ -36,5 +36,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git diff --quiet && exit 0
           git add README.md
-          git commit -m "🔄 Update recent projects [skip ci]"
+          git commit -m "🔄 Update recent projects"
           git push
