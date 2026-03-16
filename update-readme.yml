@@ -1,3 +1,4 @@
+# NOTE: Move this file to .github/workflows/update-readme.yml so GitHub Actions can run it.
 name: Update README with Recent Projects
 
 on:
