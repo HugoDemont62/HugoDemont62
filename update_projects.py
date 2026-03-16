@@ -5,6 +5,7 @@ from datetime import datetime
 GITHUB_USERNAME = "HugoDemont62"
 REPO_COUNT = 5
 README_PATH = "README.md"
+REQUEST_TIMEOUT = 10  # seconds
 
 def get_recent_repos():
     """Fetch the 5 most recently pushed repos (non-fork, non-archived)."""
@@ -21,7 +22,7 @@ def get_recent_repos():
     if token:
         headers["Authorization"] = f"Bearer {token}"
 
-    response = requests.get(url, params=params, headers=headers)
+    response = requests.get(url, params=params, headers=headers, timeout=REQUEST_TIMEOUT)
     response.raise_for_status()
     repos = response.json()
 
