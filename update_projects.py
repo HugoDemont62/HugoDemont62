@@ -91,11 +91,15 @@ def update_readme(table):
             f"{end_marker!r} are in the wrong order."
         )
 
+    now = datetime.utcnow().strftime("%d/%m/%Y à %H:%M UTC")
+    updated_line = f"\n> 🕐 Dernière mise à jour : {now}\n"
+
     new_content = (
         content[:start_idx]
         + "\n"
         + table
         + "\n"
+        + updated_line
         + content[end_idx:]
     )
 
