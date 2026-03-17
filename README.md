@@ -37,6 +37,8 @@
 | [workshop-react-natif](https://github.com/HugoDemont62/workshop-react-natif) | Application Chauve map (pour le fun) | `TypeScript` | 0 | 27/02/2026 |
 | [DOCorps](https://github.com/HugoDemont62/DOCorps) | — | `PHP` | 0 | 13/02/2026 |
 | [mon-site-vr](https://github.com/HugoDemont62/mon-site-vr) | — | `TypeScript` | 0 | 17/01/2026 |
+
+> 🕐 Dernière mise à jour : 17/03/2026 à 07:29 UTC
 <!-- PROJECTS-END -->
 
 ## 📊 GitHub Stats
