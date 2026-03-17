@@ -1,6 +1,6 @@
 import os
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 GITHUB_USERNAME = "HugoDemont62"
 REPO_COUNT = 5
