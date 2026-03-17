@@ -91,7 +91,12 @@ def update_readme(table):
             f"{end_marker!r} are in the wrong order."
         )
 
-    now = datetime.utcnow().strftime("%d/%m/%Y à %H:%M UTC")
+    # Create a UTC+1 timezone
+    utc_plus_1 = timezone(timedelta(hours=1))
+
+    # Convert UTC time to UTC+1
+    time_utc_plus_1 = utc_now.astimezone(utc_plus_1)
+    now = time_utc_plus_1.strftime("%Y-%m-%d %H:%M:%S %Z")
     updated_line = f"\n> 🕐 Dernière mise à jour : {now}\n"
 
     new_content = (
