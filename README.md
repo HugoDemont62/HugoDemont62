@@ -38,7 +38,7 @@
 | [DOCorps](https://github.com/HugoDemont62/DOCorps) | — | `PHP` | 0 | 13/02/2026 |
 | [mon-site-vr](https://github.com/HugoDemont62/mon-site-vr) | — | `TypeScript` | 0 | 17/01/2026 |
 
-> 🕐 Dernière mise à jour : 19/03/2026 à 07:54 UTC+1
+> 🕐 Dernière mise à jour : 20/03/2026 à 07:50 UTC+1
 <!-- PROJECTS-END -->
 
 ## 📊 GitHub Stats
