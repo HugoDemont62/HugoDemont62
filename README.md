@@ -32,13 +32,13 @@
 <!-- PROJECTS-START -->
 | Projet | Description | Langage | ⭐ | Dernière MàJ |
 |--------|-------------|---------|-----|--------------|
+| [DOCorps](https://github.com/HugoDemont62/DOCorps) | — | `JavaScript` | 0 | 20/03/2026 |
 | [robot-cool-qui-casse-tout](https://github.com/HugoDemont62/robot-cool-qui-casse-tout) | Code du robot pour l'Eurobot 2026 | `Python` | 0 | 17/03/2026 |
 | [theland](https://github.com/HugoDemont62/theland) | Site de thé via strapi | `TypeScript` | 0 | 28/02/2026 |
 | [workshop-react-natif](https://github.com/HugoDemont62/workshop-react-natif) | Application Chauve map (pour le fun) | `TypeScript` | 0 | 27/02/2026 |
-| [DOCorps](https://github.com/HugoDemont62/DOCorps) | — | `PHP` | 0 | 13/02/2026 |
 | [mon-site-vr](https://github.com/HugoDemont62/mon-site-vr) | — | `TypeScript` | 0 | 17/01/2026 |
 
-> 🕐 Dernière mise à jour : 20/03/2026 à 07:50 UTC+1
+> 🕐 Dernière mise à jour : 21/03/2026 à 07:38 UTC+1
 <!-- PROJECTS-END -->
 
 ## 📊 GitHub Stats
