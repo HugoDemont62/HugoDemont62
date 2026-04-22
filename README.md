@@ -38,7 +38,7 @@
 | [theland](https://github.com/HugoDemont62/theland) | Site de thé via strapi | `TypeScript` | 0 | 28/02/2026 |
 | [workshop-react-natif](https://github.com/HugoDemont62/workshop-react-natif) | Application Chauve map (pour le fun) | `TypeScript` | 0 | 27/02/2026 |
 
-> 🕐 Dernière mise à jour : 21/04/2026 à 08:43 UTC+1
+> 🕐 Dernière mise à jour : 22/04/2026 à 08:27 UTC+1
 <!-- PROJECTS-END -->
 
 ## 📊 GitHub Stats
