@@ -38,7 +38,7 @@
 | [robot-cool-qui-casse-tout](https://github.com/HugoDemont62/robot-cool-qui-casse-tout) | Code du robot pour l'Eurobot 2026 | `Python` | 0 | 14/04/2026 |
 | [theland](https://github.com/HugoDemont62/theland) | Site de thé via strapi | `TypeScript` | 0 | 28/02/2026 |
 
-> 🕐 Dernière mise à jour : 25/04/2026 à 08:09 UTC+1
+> 🕐 Dernière mise à jour : 26/04/2026 à 08:23 UTC+1
 <!-- PROJECTS-END -->
 
 ## 📊 GitHub Stats
