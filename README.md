@@ -38,7 +38,7 @@
 | [DOCorps](https://github.com/HugoDemont62/DOCorps) | — | `JavaScript` | 0 | 20/04/2026 |
 | [theland](https://github.com/HugoDemont62/theland) | Site de thé via strapi | `TypeScript` | 0 | 28/02/2026 |
 
-> 🕐 Dernière mise à jour : 27/04/2026 à 09:16 UTC+1
+> 🕐 Dernière mise à jour : 28/04/2026 à 09:20 UTC+1
 <!-- PROJECTS-END -->
 
 ## 📊 GitHub Stats
