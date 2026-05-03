@@ -32,13 +32,13 @@
 <!-- PROJECTS-START -->
 | Projet | Description | Langage | ⭐ | Dernière MàJ |
 |--------|-------------|---------|-----|--------------|
+| [king_of_the_box](https://github.com/HugoDemont62/king_of_the_box) | — | `C#` | 0 | 03/05/2026 |
 | [robot-cool-qui-casse-tout](https://github.com/HugoDemont62/robot-cool-qui-casse-tout) | Code du robot pour l'Eurobot 2026 | `Python` | 0 | 26/04/2026 |
 | [maxime-richard-portfolio](https://github.com/HugoDemont62/maxime-richard-portfolio) | projet portfolio maxime richard  | `JavaScript` | 0 | 23/04/2026 |
 | [Design-system](https://github.com/HugoDemont62/Design-system) | Design system with WC  | `HTML` | 0 | 22/04/2026 |
 | [DOCorps](https://github.com/HugoDemont62/DOCorps) | — | `JavaScript` | 0 | 20/04/2026 |
-| [theland](https://github.com/HugoDemont62/theland) | Site de thé via strapi | `TypeScript` | 0 | 28/02/2026 |
 
-> 🕐 Dernière mise à jour : 03/05/2026 à 08:57 UTC+1
+> 🕐 Dernière mise à jour : 03/05/2026 à 21:27 UTC+1
 <!-- PROJECTS-END -->
 
 ## 📊 GitHub Stats
