@@ -38,7 +38,7 @@
 | [Design-system](https://github.com/HugoDemont62/Design-system) | Design system with WC  | `HTML` | 0 | 22/04/2026 |
 | [DOCorps](https://github.com/HugoDemont62/DOCorps) | — | `JavaScript` | 0 | 20/04/2026 |
 
-> 🕐 Dernière mise à jour : 30/05/2026 à 09:23 UTC+1
+> 🕐 Dernière mise à jour : 31/05/2026 à 09:40 UTC+1
 <!-- PROJECTS-END -->
 
 ## 📊 GitHub Stats
