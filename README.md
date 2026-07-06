@@ -32,13 +32,13 @@
 <!-- PROJECTS-START -->
 | Projet | Description | Langage | ⭐ | Dernière MàJ |
 |--------|-------------|---------|-----|--------------|
+| [convocation](https://github.com/HugoDemont62/convocation) | — | `HTML` | 0 | 06/07/2026 |
 | [climaData](https://github.com/HugoDemont62/climaData) | — | `TypeScript` | 0 | 26/06/2026 |
 | [king_of_the_box](https://github.com/HugoDemont62/king_of_the_box) | — | `C#` | 0 | 13/05/2026 |
 | [robot-cool-qui-casse-tout](https://github.com/HugoDemont62/robot-cool-qui-casse-tout) | Code du robot pour l'Eurobot 2026 | `Python` | 0 | 26/04/2026 |
 | [maxime-richard-portfolio](https://github.com/HugoDemont62/maxime-richard-portfolio) | projet portfolio maxime richard  | `JavaScript` | 0 | 23/04/2026 |
-| [Design-system](https://github.com/HugoDemont62/Design-system) | Design system with WC  | `HTML` | 0 | 22/04/2026 |
 
-> 🕐 Dernière mise à jour : 05/07/2026 à 09:47 UTC+1
+> 🕐 Dernière mise à jour : 06/07/2026 à 11:10 UTC+1
 <!-- PROJECTS-END -->
 
 ## 📊 GitHub Stats
