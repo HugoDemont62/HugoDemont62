@@ -38,7 +38,7 @@
 | [robot-cool-qui-casse-tout](https://github.com/HugoDemont62/robot-cool-qui-casse-tout) | Code du robot pour l'Eurobot 2026 | `Python` | 0 | 26/04/2026 |
 | [maxime-richard-portfolio](https://github.com/HugoDemont62/maxime-richard-portfolio) | projet portfolio maxime richard  | `JavaScript` | 0 | 23/04/2026 |
 
-> 🕐 Dernière mise à jour : 07/07/2026 à 10:34 UTC+1
+> 🕐 Dernière mise à jour : 08/07/2026 à 09:21 UTC+1
 <!-- PROJECTS-END -->
 
 ## 📊 GitHub Stats
