@@ -38,7 +38,7 @@
 | [maxime-richard-portfolio](https://github.com/HugoDemont62/maxime-richard-portfolio) | projet portfolio maxime richard  | `JavaScript` | 0 | 23/04/2026 |
 | [Design-system](https://github.com/HugoDemont62/Design-system) | Design system with WC  | `HTML` | 0 | 22/04/2026 |
 
-> 🕐 Dernière mise à jour : 21/09/2026 à 12:51 UTC+1
+> 🕐 Dernière mise à jour : 22/09/2026 à 11:52 UTC+1
 <!-- PROJECTS-END -->
 
 ## 📊 GitHub Stats
